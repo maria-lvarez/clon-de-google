@@ -39,10 +39,12 @@ li {
 #nav-right-section {
     padding: 20px 0px;
     font-size: 13px;
+    color: black;
 }
 
 #nav-left-section {
     padding: 20px 10px;
+    
 }
 #foto-perfil{
     -webkit-border-radius: 50%;
@@ -79,13 +81,13 @@ li {
 }
 #buscador {
     justify-content: center;
+    
 
 }
 
 #buscador {
     border:none;
     outline: none;
-    margin-bottom: 35px;
     width: 85%;
     
 }
@@ -130,17 +132,22 @@ button:hover{
 #pais{
     display: flex;
     font-size: 13px;
-    color: #5a5c63;
+    color: #70757a;
     justify-content: center;
 }
 
 a:link{
     text-decoration: none;
-    color: rgba(0,0,0,.87);
+    color: #70757a(0,0,0,.87);
 }
 
 a:hover{
     text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: none;
+    color:rgba(0,0,0,.87);
 }
 
 footer{
