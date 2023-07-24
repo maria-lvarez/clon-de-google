@@ -12,7 +12,7 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 *[4. Objetivos de aprendizaje](https://github.com/maria-lvarez/clon-de-google/tree/main#4-objetivos-de-aprendizaje)
 *[5. Requisitos](https://github.com/maria-lvarez/clon-de-google/tree/main#5-requisitos)
 
-##Intro
+## 1. Intro
 HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador💻. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS🤯 (junto con otros elementos que conocerás más adelante). Para este primer proyecto, con los conocimientos que tienes de HTML y CSS realizarás la clonación de la interfaz de Google, sí, esa que ves cada que haces una búsqueda en su navegador, ¿aceptas el reto🤓?
 
 ## 2. Demo
@@ -22,7 +22,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("imagenes/googlelogo")
+![imagen]("https://github.com/maria-lvarez/clon-de-google/blob/main/imagenes/googlelogo.png")
 
 
 ## 3. ¿Qué construirás?
