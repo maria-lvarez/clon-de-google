@@ -6,7 +6,7 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE
 
-*[1. Intro](https://github.com/maria-lvarez/clon-de-google/tree/main#1intro)
+*[1. Intro](https://github.com/maria-lvarez/clon-de-google/edit/main/README.md#1-intro)
 *[2. Demo](https://github.com/maria-lvarez/clon-de-google/tree/main#2-demo)
 *[3. ¿Qué construirás?](https://github.com/maria-lvarez/clon-de-google/tree/main#3-qu%C3%A9-construir%C3%A1s)
 *[4. Objetivos de aprendizaje](https://github.com/maria-lvarez/clon-de-google/tree/main#4-objetivos-de-aprendizaje)
@@ -22,7 +22,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("https://github.com/maria-lvarez/clon-de-google/blob/main/imagenes/googlelogo.png")
+![imagen]("imagenes/googlelogo.png")
 
 
 ## 3. ¿Qué construirás?
