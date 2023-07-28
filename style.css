@@ -8,6 +8,7 @@
 
 header {
     height: 45px;
+
 }
 
 main {
@@ -23,7 +24,7 @@ header nav {
     display: flex;
     justify-content: flex-end;
     height: 60px;
-    color: #3c4043;
+    color: black;
 }
 
 ul {
@@ -40,10 +41,13 @@ li {
     padding: 20px 0px;
     font-size: 13px;
     color: black;
+
 }
 
 #nav-left-section {
     padding: 20px 10px;
+    color: black;
+    
     
 }
 #foto-perfil{
@@ -138,7 +142,7 @@ button:hover{
 
 a:link{
     text-decoration: none;
-    color: #70757a(0,0,0,.87);
+    font-size: 14px;
 }
 
 a:hover{
@@ -147,7 +151,7 @@ a:hover{
 
 a:visited {
     text-decoration: none;
-    color:rgba(0,0,0,.87);
+    color:#70757a;
 }
 
 footer{
@@ -159,16 +163,16 @@ footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    color: #70757a;
     height: auto;
     margin: 0px 30px 0px 30px;
-    background-color: #f2f2f2
+    background-color: #f2f2f2;
     
 }
 
 #listas-inf ul li{
     padding: 15px 15px;
     font-size: 14px;
+    color: #70757a;
 }
 
 
@@ -180,3 +184,50 @@ footer{
     border-bottom: 1px solid #dadce0;
 }
 
+.dropbtn {
+    color: #70757a;
+    padding: 2px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+
+  }
+
+.dropdown{
+    position:relative;
+    display: inline-block;
+
+    
+  }
+
+.dropdown-content {
+    display:none;
+    position:absolute;
+    min-width:190px;
+    font-size: 14px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border-radius:8px;
+    padding: 6px 8px;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: #202124;
+    padding: 6px 8px;
+    text-decoration: none;
+    display:block;
+  }
+
+  .dropdown-content a :hover {
+    background-color: #dadce0;
+  }
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+    bottom: 100%;
+    right: 0%;
+
+  }
+ 
