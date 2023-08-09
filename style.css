@@ -40,16 +40,20 @@ li {
 #nav-right-section {
     padding: 20px 0px;
     font-size: 13px;
-    color: black;
+    color: black!important;
 
 }
 
 #nav-left-section {
     padding: 20px 10px;
-    color: black;
-    
+    color: black!important;    
     
 }
+
+#nav-left-section a:link{
+    color: black!important;
+}
+
 #foto-perfil{
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -143,6 +147,7 @@ button:hover{
 a:link{
     text-decoration: none;
     font-size: 14px;
+    color: #70757a;
 }
 
 a:hover{
